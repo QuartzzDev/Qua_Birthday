@@ -2,6 +2,8 @@
 
 Sevdiklerinizin Doğum Gününü Kutlamak İçin Farklı Bir Proje
 
+Yorum Satırlarıyla Nerede Ne Olduğunu Gösterdim. Rahat Bir Şekilde Proje Üzerinde Düzenleme Yapabilirsiniz.
+
 ![image](https://github.com/QuartzzDev/Qua_Birthday/assets/69876083/0ff3fc95-2884-4938-b36c-e127b28ab34a)
 
 
