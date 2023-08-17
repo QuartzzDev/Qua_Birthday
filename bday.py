@@ -1,3 +1,5 @@
+# Quartzz <3
+
 import turtle as t
 
 isim = input("Doğum Gününü Kutlamak İstediğiniz Kişinin İsmi ? ")
